@@ -1,0 +1,11 @@
+total 12K
+drwxr-xr-x 1 arthurk 848732   0 Oct 13 15:42 ./
+drwxr-xr-x 1 arthurk 848732   0 Oct 13 14:27 ../
+drwxr-xr-x 1 arthurk 848732   0 Oct 13 15:42 .git/
+-rw-r--r-- 1 arthurk 848732  20 Oct 13 15:39 .gitignore
+-rw-r--r-- 1 arthurk 848732   0 Oct 13 15:42 202334565_HwangJeongmin_1ab7.txt
+-rw-r--r-- 1 arthurk 848732 147 Oct 13 14:28 README.md
+-rw-r--r-- 1 arthurk 848732 121 Oct 13 14:34 file_list.txt
+-rw-r--r-- 1 arthurk 848732 289 Oct 13 14:51 hello_world
+-rw-r--r-- 1 arthurk 848732 492 Oct 13 15:09 history_command.txt
+-rw-r--r-- 1 arthurk 848732  45 Oct 13 15:02 new_words.txt
